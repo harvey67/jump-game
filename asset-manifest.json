@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jump-game/static/css/main.f7c69def.chunk.css",
-    "main.js": "/jump-game/static/js/main.c83b6f89.chunk.js",
-    "main.js.map": "/jump-game/static/js/main.c83b6f89.chunk.js.map",
+    "main.js": "/jump-game/static/js/main.ab8bf7e0.chunk.js",
+    "main.js.map": "/jump-game/static/js/main.ab8bf7e0.chunk.js.map",
     "runtime-main.js": "/jump-game/static/js/runtime-main.255314bd.js",
     "runtime-main.js.map": "/jump-game/static/js/runtime-main.255314bd.js.map",
     "static/js/2.b96ac1e2.chunk.js": "/jump-game/static/js/2.b96ac1e2.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.f7c69def.chunk.css.map": "/jump-game/static/css/main.f7c69def.chunk.css.map",
     "static/js/2.b96ac1e2.chunk.js.LICENSE.txt": "/jump-game/static/js/2.b96ac1e2.chunk.js.LICENSE.txt",
     "static/media/backgroundMusic.e69518ac.mp3": "/jump-game/static/media/backgroundMusic.e69518ac.mp3",
+    "static/media/backgroundSky.e551189b.png": "/jump-game/static/media/backgroundSky.e551189b.png",
     "static/media/dora1.26d2b5e5.png": "/jump-game/static/media/dora1.26d2b5e5.png",
     "static/media/doraLeft.1f2dd769.png": "/jump-game/static/media/doraLeft.1f2dd769.png",
     "static/media/doraRight.48b4e079.png": "/jump-game/static/media/doraRight.48b4e079.png",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.255314bd.js",
     "static/js/2.b96ac1e2.chunk.js",
     "static/css/main.f7c69def.chunk.css",
-    "static/js/main.c83b6f89.chunk.js"
+    "static/js/main.ab8bf7e0.chunk.js"
   ]
 }
