@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/jump-game/static/css/main.f7c69def.chunk.css",
-    "main.js": "/jump-game/static/js/main.ab8bf7e0.chunk.js",
-    "main.js.map": "/jump-game/static/js/main.ab8bf7e0.chunk.js.map",
+    "main.css": "/jump-game/static/css/main.81d22411.chunk.css",
+    "main.js": "/jump-game/static/js/main.d4d538bd.chunk.js",
+    "main.js.map": "/jump-game/static/js/main.d4d538bd.chunk.js.map",
     "runtime-main.js": "/jump-game/static/js/runtime-main.255314bd.js",
     "runtime-main.js.map": "/jump-game/static/js/runtime-main.255314bd.js.map",
-    "static/js/2.b96ac1e2.chunk.js": "/jump-game/static/js/2.b96ac1e2.chunk.js",
-    "static/js/2.b96ac1e2.chunk.js.map": "/jump-game/static/js/2.b96ac1e2.chunk.js.map",
+    "static/js/2.f7c16314.chunk.js": "/jump-game/static/js/2.f7c16314.chunk.js",
+    "static/js/2.f7c16314.chunk.js.map": "/jump-game/static/js/2.f7c16314.chunk.js.map",
     "static/js/3.17240cef.chunk.js": "/jump-game/static/js/3.17240cef.chunk.js",
     "static/js/3.17240cef.chunk.js.map": "/jump-game/static/js/3.17240cef.chunk.js.map",
     "index.html": "/jump-game/index.html",
-    "static/css/main.f7c69def.chunk.css.map": "/jump-game/static/css/main.f7c69def.chunk.css.map",
-    "static/js/2.b96ac1e2.chunk.js.LICENSE.txt": "/jump-game/static/js/2.b96ac1e2.chunk.js.LICENSE.txt",
+    "static/css/main.81d22411.chunk.css.map": "/jump-game/static/css/main.81d22411.chunk.css.map",
+    "static/js/2.f7c16314.chunk.js.LICENSE.txt": "/jump-game/static/js/2.f7c16314.chunk.js.LICENSE.txt",
     "static/media/backgroundMusic.e69518ac.mp3": "/jump-game/static/media/backgroundMusic.e69518ac.mp3",
-    "static/media/backgroundSky.e551189b.png": "/jump-game/static/media/backgroundSky.e551189b.png",
+    "static/media/backgroundTowers.3cdbb202.png": "/jump-game/static/media/backgroundTowers.3cdbb202.png",
+    "static/media/cloud.6df42ca0.png": "/jump-game/static/media/cloud.6df42ca0.png",
     "static/media/dora1.26d2b5e5.png": "/jump-game/static/media/dora1.26d2b5e5.png",
     "static/media/doraLeft.1f2dd769.png": "/jump-game/static/media/doraLeft.1f2dd769.png",
     "static/media/doraRight.48b4e079.png": "/jump-game/static/media/doraRight.48b4e079.png",
@@ -22,12 +23,17 @@
     "static/media/floorBad.f523f4c3.png": "/jump-game/static/media/floorBad.f523f4c3.png",
     "static/media/forest.4084e9ae.png": "/jump-game/static/media/forest.4084e9ae.png",
     "static/media/gameOver.ecaf1372.mp3": "/jump-game/static/media/gameOver.ecaf1372.mp3",
-    "static/media/pop.5b688e1e.mp3": "/jump-game/static/media/pop.5b688e1e.mp3"
+    "static/media/App.css": "/jump-game/static/media/harryPotterFont.a65869c0.TTF",
+    "static/media/jump.1d5b3091.mp3": "/jump-game/static/media/jump.1d5b3091.mp3",
+    "static/media/pop.5b688e1e.mp3": "/jump-game/static/media/pop.5b688e1e.mp3",
+    "static/media/roblox.52c22e3a.mp3": "/jump-game/static/media/roblox.52c22e3a.mp3",
+    "static/media/success.7a7fcfe0.mp3": "/jump-game/static/media/success.7a7fcfe0.mp3",
+    "static/media/zelda.02f21e05.mp3": "/jump-game/static/media/zelda.02f21e05.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.255314bd.js",
-    "static/js/2.b96ac1e2.chunk.js",
-    "static/css/main.f7c69def.chunk.css",
-    "static/js/main.ab8bf7e0.chunk.js"
+    "static/js/2.f7c16314.chunk.js",
+    "static/css/main.81d22411.chunk.css",
+    "static/js/main.d4d538bd.chunk.js"
   ]
 }
