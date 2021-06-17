@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/jump-game/static/css/main.b6d2e6fa.chunk.css",
-    "main.js": "/jump-game/static/js/main.95b0a5cb.chunk.js",
-    "main.js.map": "/jump-game/static/js/main.95b0a5cb.chunk.js.map",
+    "main.css": "/jump-game/static/css/main.a33f92ac.chunk.css",
+    "main.js": "/jump-game/static/js/main.01766ed7.chunk.js",
+    "main.js.map": "/jump-game/static/js/main.01766ed7.chunk.js.map",
     "runtime-main.js": "/jump-game/static/js/runtime-main.255314bd.js",
     "runtime-main.js.map": "/jump-game/static/js/runtime-main.255314bd.js.map",
     "static/js/2.ef3148da.chunk.js": "/jump-game/static/js/2.ef3148da.chunk.js",
@@ -10,10 +10,11 @@
     "static/js/3.17240cef.chunk.js": "/jump-game/static/js/3.17240cef.chunk.js",
     "static/js/3.17240cef.chunk.js.map": "/jump-game/static/js/3.17240cef.chunk.js.map",
     "index.html": "/jump-game/index.html",
-    "static/css/main.b6d2e6fa.chunk.css.map": "/jump-game/static/css/main.b6d2e6fa.chunk.css.map",
+    "static/css/main.a33f92ac.chunk.css.map": "/jump-game/static/css/main.a33f92ac.chunk.css.map",
     "static/js/2.ef3148da.chunk.js.LICENSE.txt": "/jump-game/static/js/2.ef3148da.chunk.js.LICENSE.txt",
     "static/media/backgroundMusic.e69518ac.mp3": "/jump-game/static/media/backgroundMusic.e69518ac.mp3",
     "static/media/backgroundTowers.3cdbb202.png": "/jump-game/static/media/backgroundTowers.3cdbb202.png",
+    "static/media/App.css": "/jump-game/static/media/harryPotterFont.a65869c0.TTF",
     "static/media/cloud.6df42ca0.png": "/jump-game/static/media/cloud.6df42ca0.png",
     "static/media/coinCollect.b869895d.mp3": "/jump-game/static/media/coinCollect.b869895d.mp3",
     "static/media/coinMusic.e54b017f.mp3": "/jump-game/static/media/coinMusic.e54b017f.mp3",
@@ -25,7 +26,6 @@
     "static/media/floorBad.f523f4c3.png": "/jump-game/static/media/floorBad.f523f4c3.png",
     "static/media/forest.4084e9ae.png": "/jump-game/static/media/forest.4084e9ae.png",
     "static/media/gameOver.ecaf1372.mp3": "/jump-game/static/media/gameOver.ecaf1372.mp3",
-    "static/media/App.css": "/jump-game/static/media/harryPotterFont.a65869c0.TTF",
     "static/media/jump.1d5b3091.mp3": "/jump-game/static/media/jump.1d5b3091.mp3",
     "static/media/pop.5b688e1e.mp3": "/jump-game/static/media/pop.5b688e1e.mp3",
     "static/media/quidditch01.f2975e70.jpg": "/jump-game/static/media/quidditch01.f2975e70.jpg",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.255314bd.js",
     "static/js/2.ef3148da.chunk.js",
-    "static/css/main.b6d2e6fa.chunk.css",
-    "static/js/main.95b0a5cb.chunk.js"
+    "static/css/main.a33f92ac.chunk.css",
+    "static/js/main.01766ed7.chunk.js"
   ]
 }
