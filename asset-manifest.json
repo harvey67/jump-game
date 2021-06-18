@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jump-game/static/css/main.a33f92ac.chunk.css",
-    "main.js": "/jump-game/static/js/main.01766ed7.chunk.js",
-    "main.js.map": "/jump-game/static/js/main.01766ed7.chunk.js.map",
+    "main.css": "/jump-game/static/css/main.64a14b43.chunk.css",
+    "main.js": "/jump-game/static/js/main.52bca850.chunk.js",
+    "main.js.map": "/jump-game/static/js/main.52bca850.chunk.js.map",
     "runtime-main.js": "/jump-game/static/js/runtime-main.255314bd.js",
     "runtime-main.js.map": "/jump-game/static/js/runtime-main.255314bd.js.map",
-    "static/js/2.ef3148da.chunk.js": "/jump-game/static/js/2.ef3148da.chunk.js",
-    "static/js/2.ef3148da.chunk.js.map": "/jump-game/static/js/2.ef3148da.chunk.js.map",
+    "static/js/2.b101467c.chunk.js": "/jump-game/static/js/2.b101467c.chunk.js",
+    "static/js/2.b101467c.chunk.js.map": "/jump-game/static/js/2.b101467c.chunk.js.map",
     "static/js/3.17240cef.chunk.js": "/jump-game/static/js/3.17240cef.chunk.js",
     "static/js/3.17240cef.chunk.js.map": "/jump-game/static/js/3.17240cef.chunk.js.map",
     "index.html": "/jump-game/index.html",
-    "static/css/main.a33f92ac.chunk.css.map": "/jump-game/static/css/main.a33f92ac.chunk.css.map",
-    "static/js/2.ef3148da.chunk.js.LICENSE.txt": "/jump-game/static/js/2.ef3148da.chunk.js.LICENSE.txt",
+    "static/css/main.64a14b43.chunk.css.map": "/jump-game/static/css/main.64a14b43.chunk.css.map",
+    "static/js/2.b101467c.chunk.js.LICENSE.txt": "/jump-game/static/js/2.b101467c.chunk.js.LICENSE.txt",
     "static/media/backgroundMusic.e69518ac.mp3": "/jump-game/static/media/backgroundMusic.e69518ac.mp3",
     "static/media/backgroundTowers.3cdbb202.png": "/jump-game/static/media/backgroundTowers.3cdbb202.png",
     "static/media/App.css": "/jump-game/static/media/harryPotterFont.a65869c0.TTF",
@@ -21,6 +21,7 @@
     "static/media/dora1.26d2b5e5.png": "/jump-game/static/media/dora1.26d2b5e5.png",
     "static/media/doraLeft.1f2dd769.png": "/jump-game/static/media/doraLeft.1f2dd769.png",
     "static/media/doraRight.48b4e079.png": "/jump-game/static/media/doraRight.48b4e079.png",
+    "static/media/draco.e69ca8b0.png": "/jump-game/static/media/draco.e69ca8b0.png",
     "static/media/fall.c2c56b90.mp3": "/jump-game/static/media/fall.c2c56b90.mp3",
     "static/media/floor.3c58318d.png": "/jump-game/static/media/floor.3c58318d.png",
     "static/media/floorBad.f523f4c3.png": "/jump-game/static/media/floorBad.f523f4c3.png",
@@ -28,6 +29,7 @@
     "static/media/gameOver.ecaf1372.mp3": "/jump-game/static/media/gameOver.ecaf1372.mp3",
     "static/media/jump.1d5b3091.mp3": "/jump-game/static/media/jump.1d5b3091.mp3",
     "static/media/pop.5b688e1e.mp3": "/jump-game/static/media/pop.5b688e1e.mp3",
+    "static/media/potter4.622f3fec.png": "/jump-game/static/media/potter4.622f3fec.png",
     "static/media/quidditch01.f2975e70.jpg": "/jump-game/static/media/quidditch01.f2975e70.jpg",
     "static/media/quidditch02.ebf0feb9.jpg": "/jump-game/static/media/quidditch02.ebf0feb9.jpg",
     "static/media/quidditch03.5a900725.jpg": "/jump-game/static/media/quidditch03.5a900725.jpg",
@@ -38,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.255314bd.js",
-    "static/js/2.ef3148da.chunk.js",
-    "static/css/main.a33f92ac.chunk.css",
-    "static/js/main.01766ed7.chunk.js"
+    "static/js/2.b101467c.chunk.js",
+    "static/css/main.64a14b43.chunk.css",
+    "static/js/main.52bca850.chunk.js"
   ]
 }
