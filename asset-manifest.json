@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jump-game/static/css/main.64a14b43.chunk.css",
-    "main.js": "/jump-game/static/js/main.52bca850.chunk.js",
-    "main.js.map": "/jump-game/static/js/main.52bca850.chunk.js.map",
+    "main.js": "/jump-game/static/js/main.f34d8bde.chunk.js",
+    "main.js.map": "/jump-game/static/js/main.f34d8bde.chunk.js.map",
     "runtime-main.js": "/jump-game/static/js/runtime-main.255314bd.js",
     "runtime-main.js.map": "/jump-game/static/js/runtime-main.255314bd.js.map",
     "static/js/2.b101467c.chunk.js": "/jump-game/static/js/2.b101467c.chunk.js",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.255314bd.js",
     "static/js/2.b101467c.chunk.js",
     "static/css/main.64a14b43.chunk.css",
-    "static/js/main.52bca850.chunk.js"
+    "static/js/main.f34d8bde.chunk.js"
   ]
 }
