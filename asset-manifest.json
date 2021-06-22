@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/jump-game/static/css/main.64a14b43.chunk.css",
-    "main.js": "/jump-game/static/js/main.f34d8bde.chunk.js",
-    "main.js.map": "/jump-game/static/js/main.f34d8bde.chunk.js.map",
-    "runtime-main.js": "/jump-game/static/js/runtime-main.255314bd.js",
-    "runtime-main.js.map": "/jump-game/static/js/runtime-main.255314bd.js.map",
-    "static/js/2.b101467c.chunk.js": "/jump-game/static/js/2.b101467c.chunk.js",
-    "static/js/2.b101467c.chunk.js.map": "/jump-game/static/js/2.b101467c.chunk.js.map",
-    "static/js/3.17240cef.chunk.js": "/jump-game/static/js/3.17240cef.chunk.js",
-    "static/js/3.17240cef.chunk.js.map": "/jump-game/static/js/3.17240cef.chunk.js.map",
+    "main.js": "/jump-game/static/js/main.53965c3b.chunk.js",
+    "main.js.map": "/jump-game/static/js/main.53965c3b.chunk.js.map",
+    "runtime-main.js": "/jump-game/static/js/runtime-main.7dc692fa.js",
+    "runtime-main.js.map": "/jump-game/static/js/runtime-main.7dc692fa.js.map",
+    "static/js/2.17182d90.chunk.js": "/jump-game/static/js/2.17182d90.chunk.js",
+    "static/js/2.17182d90.chunk.js.map": "/jump-game/static/js/2.17182d90.chunk.js.map",
+    "static/js/3.5e55de48.chunk.js": "/jump-game/static/js/3.5e55de48.chunk.js",
+    "static/js/3.5e55de48.chunk.js.map": "/jump-game/static/js/3.5e55de48.chunk.js.map",
     "index.html": "/jump-game/index.html",
     "static/css/main.64a14b43.chunk.css.map": "/jump-game/static/css/main.64a14b43.chunk.css.map",
-    "static/js/2.b101467c.chunk.js.LICENSE.txt": "/jump-game/static/js/2.b101467c.chunk.js.LICENSE.txt",
+    "static/js/2.17182d90.chunk.js.LICENSE.txt": "/jump-game/static/js/2.17182d90.chunk.js.LICENSE.txt",
     "static/media/backgroundMusic.e69518ac.mp3": "/jump-game/static/media/backgroundMusic.e69518ac.mp3",
     "static/media/backgroundTowers.3cdbb202.png": "/jump-game/static/media/backgroundTowers.3cdbb202.png",
     "static/media/App.css": "/jump-game/static/media/harryPotterFont.a65869c0.TTF",
@@ -39,9 +39,9 @@
     "static/media/zelda.02f21e05.mp3": "/jump-game/static/media/zelda.02f21e05.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.255314bd.js",
-    "static/js/2.b101467c.chunk.js",
+    "static/js/runtime-main.7dc692fa.js",
+    "static/js/2.17182d90.chunk.js",
     "static/css/main.64a14b43.chunk.css",
-    "static/js/main.f34d8bde.chunk.js"
+    "static/js/main.53965c3b.chunk.js"
   ]
 }
