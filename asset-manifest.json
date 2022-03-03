@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jump-game/static/css/main.91524fbc.css",
+    "main.js": "/jump-game/static/js/main.e4da0547.js",
+    "static/js/787.2a44e206.chunk.js": "/jump-game/static/js/787.2a44e206.chunk.js",
+    "index.html": "/jump-game/index.html",
+    "main.91524fbc.css.map": "/jump-game/static/css/main.91524fbc.css.map",
+    "main.e4da0547.js.map": "/jump-game/static/js/main.e4da0547.js.map",
+    "787.2a44e206.chunk.js.map": "/jump-game/static/js/787.2a44e206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91524fbc.css",
+    "static/js/main.e4da0547.js"
+  ]
+}
